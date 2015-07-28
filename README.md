@@ -1,9 +1,4 @@
----
-language: bash
-tags: git, basics, version control
-type: lecture
-resources: 0
----
+
 
 ## GIT Basics ~ 1hr 27min
 
