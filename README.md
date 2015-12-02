@@ -9,3 +9,5 @@ Watch the videos below if you are unfamiliar with GIT. We will be using GIT to a
 [GIT Cheatsheet](http://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
 
 [GIT Best Practices](http://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large02.png)
+
+<a href='https://learn.co/lessons/fe-git-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
