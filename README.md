@@ -10,4 +10,4 @@ Watch the videos below if you are unfamiliar with GIT. We will be using GIT to a
 
 [GIT Best Practices](http://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large02.png)
 
-<a href='https://learn.co/lessons/fe-git-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-git-basics' title='GIT Basics ~ 1hr 27min'>GIT Basics ~ 1hr 27min</a> on Learn.co and start learning to code for free.</p>
