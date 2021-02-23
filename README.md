@@ -6,8 +6,6 @@ Watch the videos below if you are unfamiliar with GIT. We will be using GIT to a
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/yeank75sObU?list=PLj148bJp5wiwdhbnxCrxZzbDcp4l7KDpX" frameborder="0" allowfullscreen></iframe>
 
-[GIT Cheatsheet](http://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
+[GIT Cheatsheet](https://www.git-tower.com/blog/media/pages/posts/git-cheat-sheet/-1223884809-1613455958/git-cheat-sheet-large01.png)
 
-[GIT Best Practices](http://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large02.png)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-git-basics' title='GIT Basics ~ 1hr 27min'>GIT Basics ~ 1hr 27min</a> on Learn.co and start learning to code for free.</p>
+[GIT Best Practices](https://www.git-tower.com/blog/media/pages/posts/git-cheat-sheet/-257129177-1613455958/git-cheat-sheet-large02.png)
